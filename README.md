@@ -2,6 +2,14 @@
 
 A linear regression project predicting monthly rainfall in Bangladesh using historical temperature, month, and year data (1901–2015).
 
+## 👥 Authors
+
+| Name | Role |
+|------|------|
+| **Mahmudul Hasan Sakib** | Project Lead, Data Analysis & Model Development |
+| **Sakil Ahmed** | Data Visualization & Testing |
+| **Jasmin Bagom** | Data Analysis & Documentation |
+
 ## 📊 Dataset
 
 - **Source:** [Temp and Rain — Bangladesh](https://www.kaggle.com/datasets/mahmudulsakib2019/temp-and-rain) (Kaggle)
